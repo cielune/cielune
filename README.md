@@ -1,5 +1,5 @@
 # About Me
-<p>⚡ currently : 2nd year student @EPITA, in exchange at Shibaura Institute of Technology, Tokyo, JP. </p>
+<p>⚡ currently : 3rd year student @EPITA, 1st year of engineering school</p>
 <p>📍 based in Strasbourg </p>
 
 
@@ -12,7 +12,7 @@ I'm currently working on multiple projects :
 
 &nbsp;
 # 🛠 Skills
-- Technical : HTML, CSS, C, C#, Python, Octave, Ocaml, Matlab.
+- Technical : C, C#, Python, Octave, Ocaml, Matlab, HTML, CSS.
 
 &nbsp;
 # 🌱 Currently learning
